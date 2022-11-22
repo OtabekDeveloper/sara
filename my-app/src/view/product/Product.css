@@ -1,0 +1,51 @@
+.carousel-indicators button{
+    background-color: #ec5a3c !important;
+}
+.CaruselImg{
+    border-radius: 15px !important;
+}
+.ts{
+    font-size: 22px !important;
+}
+.ds{
+    font-size: 17px !important;
+}
+.ps{
+    font-size: 15px !important;
+}
+.fillter{
+    display: flex;
+    justify-content: space-between !important;
+    align-items: center !important;
+    width: 100%;
+    background-color: white ;
+    height: 50px;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 10px;
+}
+.filterInput{
+    width: 150px !important;
+}
+.filterInputs{
+    display: flex;
+    flex-direction: row;
+}
+.searchButton{
+    border: 1px solid #f8ae3b !important;
+    color: #f8ae3b !important;
+}
+.searchButton:hover{
+    background-image: linear-gradient(to right, #ed5f3b , #f8ae3b) !important;
+    color: white !important;
+    background-color: unset !important;
+}
+.searchButton:focus{
+    box-shadow: none !important;
+}
+.searchButton:active{
+    background-color: unset !important;
+}
+.filterSearch{
+    display: flex;
+    justify-content: flex-end !important;
+}

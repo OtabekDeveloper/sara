@@ -1,0 +1,19 @@
+.carousel-indicators button{
+    background-color: #ec5a3c !important;
+    z-index: unset !important;
+}
+.caruselIndicator{
+    z-index: 1 !important;
+}
+.CaruselImg{
+    border-radius: 15px !important;
+}
+.ts{
+    font-size: 22px !important;
+}
+.ds{
+    font-size: 17px !important;
+}
+.ps{
+    font-size: 15px !important;
+}
