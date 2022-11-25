@@ -1,0 +1,76 @@
+[
+    {
+        "imgUrl": "./assests/thrid.jpg",
+        "id": 1,
+        "title":"Dodo-Pizza sayti ",
+        "descrption":"Siz bu saytda o`zingizga kerakli yegul)",
+        "price":3000
+    },
+    {
+        "imgUrl": "./assests/four.jpg",
+        "id": 2,
+        "title":"Dodo-Pizza sayti",
+        "descrption":"Siz bu saytda o`zingizga kerakli yegulilar) dfgdfgdgdgfdgdgdfgdgdfgdgdfgdfgdf",
+        "price":400
+
+    },
+    {
+        "imgUrl": "./assests/frist.jpg",
+        "id": 3,
+        "title":"Dodo-Pizza sayti",
+        "descrption":"Siz bu saytda o`zingizga kerakli yegul)",
+        "price":3120
+
+    },
+    {
+        "imgUrl": "./assests/five.jpg",
+        "id": 4,
+        "title":"Dodo-Pizza sayti ",
+        "descrption":"Siz bu saytda o`zingizga kerakli yegulilar) ",
+        "price":30440
+    },
+    {
+        "imgUrl": "./assests/five.jpg",
+        "id": 4,
+        "title":"Dodo-Pizza sayti ",
+        "descrption":"Siz bu saytda o`zingizga kerakli yegulilar) ",
+        "price":30440
+    },
+    {
+        "imgUrl": "./assests/five.jpg",
+        "id": 4,
+        "title":"Dodo-Pizza sayti ",
+        "descrption":"Siz bu saytda o`zingizga kerakli yegulilar) ",
+        "price":30440
+    },
+    {
+        "imgUrl": "./assests/five.jpg",
+        "id": 4,
+        "title":"Dodo-Pizza sayti ",
+        "descrption":"Siz bu saytda o`zingizga kerakli yegulilar) ",
+        "price":30440
+    },
+    {
+        "imgUrl": "./assests/second.jpg",
+        "id": 5,
+        "title":"Dodo-Pizza sayti",
+        "descrption":"Siz bu saytda o`zingizga kerakli yegul)",
+        "price":34500
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

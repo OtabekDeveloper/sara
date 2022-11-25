@@ -1,0 +1,40 @@
+.nav_bg{
+    width: 100% !important;
+    background-color: orange;
+    margin-bottom: 10px;
+}
+
+.victus{
+    margin-left: 40% !important;
+}
+
+.acer{
+    margin-left: 20% !important;
+}
+
+
+.ikonka{
+font-size: 25px;
+margin-top: 10px;
+}
+
+.product-count {
+    background-color: #e8104a;
+    /* height: 1.375rem; */
+    width: 1.375rem;
+    color: #fff;
+    border-radius: 100%;
+    background-clip: padding-box;
+    position: absolute;
+    font-size: .75rem;
+    text-align: center;
+    padding: 0;
+}
+
+.victus {
+font-size: 20px;
+}
+
+@media only screen and (max-width: 1024px) {
+
+	}

@@ -1,7 +1,5 @@
 import React, { useState } from "react";
 import "./Card.css";
-import imag1 from "../assets/cakeFrist.jpg"
-import imag2 from "../assets/cakeScon.jpg"
 import imag4 from "../assets/Chocolate-cake.jpg"
 import { useCart } from "react-use-cart"
 import Modal from "../Modal/Modal"
@@ -13,20 +11,20 @@ function Card(props) {
   localStorage.setItem('prod', JSON.stringify(prod))
 }
   return (
-
-    <div className="fullCart ">
-      <div class="card oneCard " >
-        <img src={imag4} class="card-img-center proCardImg " alt="..." />
-        <div class="card-body cardBody p-3">
-          <h5 class="card-title proCardTitle">{props.title}</h5>
-          <p class="card-text proCardText">{props.desc}</p>
+<div className="container">
+    <div className="fullCart">
+      <div className="card oneCard">
+        <img src={imag4} className="card-img-center proCardImg " alt="..." />
+        <div className="card-body cardBody p-3">
+          <h5 className="card-title proCardTitle">{props.title}</h5>
+          <p className="card-text proCardText">{props.desc}</p>
           <b className="proCardPrice ">{props.price}<del>20$</del></b><br />
-          <a href="#" class="btn btn-primary proCardbtn me-2" onClick={() => { setModalOpen(true); }}>View</a>
-          <a href="#" class="btn btn-primary proCardbtn ms-2" onClick={() => addItem(props.item)} >Add</a>
+          <a href="#" className="btn btn-primary proCardbtn me-2" onClick={() => { setModalOpen(true); }}>View</a>
+          <a href="#" className="btn btn-primary proCardbtn ms-2" onClick={() => addItem(props.item)} >Add</a>
           {modalOpen && <Modal setOpenModal={setModalOpen} />}
         </div>
       </div>
-     
+      </div>
     </div>
 
     // <div>

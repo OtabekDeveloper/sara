@@ -1,0 +1,59 @@
+.animation{
+    background-color: rgba(241, 175, 10, 0.938);
+}
+
+
+.foot{
+    background-color:  rgba(241, 175, 10, 0.938);
+    margin-top: 15px;
+}
+
+.rasmmm{
+    border-radius: 5px;
+    height: 97px;
+}
+
+.face{
+    background-color: orange;
+}
+
+.twit{
+    background-color: #55acee;
+}
+
+.goog{
+    background-color: #dd4b39;
+}
+
+.inst{
+    background-color: #ac2bac;
+}
+/* 
+.copy{
+    background-color:orange;
+   margin-bottom: 50px !important;
+} */
+
+/* .harr{
+    background-color: orange;
+    width: 100%;
+    height: 100%;
+} */
+
+/* 
+.gull{
+    background-color: #ac2bac;
+} */
+
+.toliq{
+    background-color: orange;
+}
+
+.har{
+    margin-top: 50px;
+}
+
+.pasroq{
+    padding-top: 40px;
+    /* padding-top: 30px; */
+}
